@@ -12,6 +12,6 @@ export default function Home() {
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius in labore temporibus eveniet accusantium atque alias minus, sapiente voluptate aperiam veniam illo ducimus mollitia tempora delectus! Perferendis aliquam dolore eos.</p>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius in labore temporibus eveniet accusantium atque alias minus, sapiente voluptate aperiam veniam illo ducimus mollitia tempora delectus! Perferendis aliquam dolore eos.</p>
       <Footer />
-    </div>   
+    </div>        
   )   
 }
